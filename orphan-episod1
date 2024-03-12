@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Orphan</title>
+</head>
+<body>
+    <h1>ORPHAN GIRL</h1>
+    <img src="c:\Users\TEMP\Downloads\heartbroken-black-woman-crying-05241-1024x1024__1_-removebg-preview.png" alt="[Hlamarisa]">
+    <p>
+        Hlamarisa's Journey: Triumph Over Adversity
+
+    </p>
+
+    <audio controls>
+        <source src="c:\Users\TEMP\Downloads\2024_03_11_13_48_46.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+</body>
+</html>
